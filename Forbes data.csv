@@ -1,24 +1,24 @@
 S.NO,Name,Nationality,Current Rank,Previous Year Rank,Sport,Year,earnings ($ million)
 1,Mike Tyson,USA,1,,Boxing,1990,28.6
 2,Buster Douglas,USA,2,,Boxing,1990,26
-3,Sugar Ray Leonard,USA,3,,boxing,1990,13
-4,Ayrton Senna,Brazil,4,,auto racing,1990,10
-5,Alain Prost,France,5,,auto racing,1990,9
-6,Jack Nicklaus,USA,6,,golf,1990,8.6
-7,Greg Norman,Australia,7,,golf,1990,8.5
-8,Michael Jordan,USA,8,,basketball,1990,8.1
-9,Arnold Palmer,USA,8,,golf,1990,8.1
-10,Evander Holyfield,USA,8,,boxing,1990,8.1
-11,Evander Holyfield,USA,1,8,boxing,1991,60.5
-12,Mike Tyson,USA,2,1,boxing,1991,31.5
-13,Michael Jordan,USA,3,8,basketball,1991,16
-14,George Foreman,USA,4,>30,boxing,1991,14.5
-15,Ayrton Senna,Brazil,5,4,auto racing,1991,13
-16,Alain Prost,France,6,5,auto racing,1991,11
-"17,""Donovan """"Razor"""" Ruddock"",Canada,7,>30,boxing,1991,10.2"
-18,Arnold Palmer,USA,8,8,golf,1991,9.3
-19,Nigel Mansell,UK,9,12,auto racing,1991,9
-20,Sugar Ray Leonard,USA,10,6,golf,1991,8.5
+3,Sugar Ray Leonard,USA,3,,Boxing,1990,13
+4,Ayrton Senna,Brazil,4,,Auto Racing,1990,10
+5,Alain Prost,France,5,,Auto Racing,1990,9
+6,Jack Nicklaus,USA,6,,Golf,1990,8.6
+7,Greg Norman,Australia,7,,Golf,1990,8.5
+8,Michael Jordan,USA,8,,Basketball,1990,8.1
+9,Arnold Palmer,USA,8,,Golf,1990,8.1
+10,Evander Holyfield,USA,8,,Boxing,1990,8.1
+11,Evander Holyfield,USA,1,8,Boxing,1991,60.5
+12,Mike Tyson,USA,2,1,Boxing,1991,31.5
+13,Michael Jordan,USA,3,8,Basketball,1991,16
+14,George Foreman,USA,4,>30,Boxing,1991,14.5
+15,Ayrton Senna,Brazil,5,4,Auto Racing,1991,13
+16,Alain Prost,France,6,5,Auto Racing,1991,11
+"17,""Donovan """"Razor"""" Ruddock"",Canada,7,>30,Boxing,1991,10.2"
+18,Arnold Palmer,USA,8,8,Golf,1991,9.3
+19,Nigel Mansell,UK,9,12,Auto Racing,1991,9
+20,Sugar Ray Leonard,USA,10,6,Golf,1991,8.5
 21,Michael Jordan,USA,1,3,Basketball,1992,35.9
 22,Evander Holyfield,USA,2,1,Boxing,1992,28
 23,Ayrton Senna,Brazil,3,5,Auto Racing,1992,22
@@ -34,7 +34,7 @@ S.NO,Name,Nationality,Current Rank,Previous Year Rank,Sport,Year,earnings ($ mil
 33,Ayrton Senna,Brazil,3,3,Auto racing,1993,18.5
 34,Alain Prost,France,4,>40,Auto Racing,1993,16
 35,George Foreman,USA,5,19,Boxing,1993,15.8
-36,Shaquille O'Neal,USA,6,>40,basketball,1993,15.2
+36,Shaquille O'Neal,USA,6,>40,Basketball,1993,15.2
 37,Lennox Lewis,USA,7,>40,Boxing,1993,15
 38,Cecil Fielder,USA,8,40,Baseball,1993,12.7
 39,Jim Courier,USA,9,9,Tennis,1993,12.6
@@ -49,15 +49,15 @@ S.NO,Name,Nationality,Current Rank,Previous Year Rank,Sport,Year,earnings ($ mil
 48,Evander Holyfield,USA,8,12,Boxing,1994,12
 49,Andre Agassi,USA,9,20,Tennis,1994,11.4
 50,Nigel Mansell,UK,10,19,Auto Racing,1994,11.3
-51,Michael Jordan,USA,1,1,basketball,1995,43.9
-52,Mike Tyson,USA,2,not ranked,boxing,1995,40
+51,Michael Jordan,USA,1,1,Basketball,1995,43.9
+52,Mike Tyson,USA,2,not ranked,Boxing,1995,40
 53,Deion Sanders,USA,3,38,Football,1995,22.5
-54,Riddick Bowe,USA,4,not ranked,boxing,1995,22.2
-55,Shaquille O'Neal,USA,5,2,basketball,1995,21.9
-56,George Foreman,USA,6,15,boxing,1995,18
-57,Andre Agassi,USA,7,9,tennis,1995,16
-58,Sugar Ray Leonard,USA,8,3,golf,1995,15.1
-59,Michael Schumacher,Germany,9,30,auto racing,1995,15
+54,Riddick Bowe,USA,4,not ranked,Boxing,1995,22.2
+55,Shaquille O'Neal,USA,5,2,Basketball,1995,21.9
+56,George Foreman,USA,6,15,Boxing,1995,18
+57,Andre Agassi,USA,7,9,Tennis,1995,16
+58,Sugar Ray Leonard,USA,8,3,Golf,1995,15.1
+59,Michael Schumacher,Germany,9,30,Auto Racing,1995,15
 60,Wayne Gretzky,Canada,10,5,ice hockey,1995,14.5
 61,Mike Tyson,USA,1,2,Boxing,1996,75
 62,Michael Jordan,USA,2,1,Basketball,1996,52.6
@@ -110,7 +110,7 @@ S.NO,Name,Nationality,Current Rank,Previous Year Rank,Sport,Year,earnings ($ mil
 109,Oscar De La Hoya,USA,9,3,Boxing,2000,23
 110,Kevin Garnett,USA,10,>10,Basketball,2000,21
 111,Tiger Woods,USA,1,2,Golf,2002,69
-112,Michael Schumacher,Germany,2,1,F1 Motorsports,2002,67
+112,Michael Schumacher,Germany,2,1,Auto Racing,2002,67
 113,Michael Jordan,USA,3,4,Basketball,2002,36
 114,Lennox Lewis,USA,4,8,Boxing,2002,28
 115,Grant Hill,USA,5,5,Basketball,2002,24
@@ -157,14 +157,14 @@ S.NO,Name,Nationality,Current Rank,Previous Year Rank,Sport,Year,earnings ($ mil
 156,Michael Jordan,USA,5,6,basketball,2006,32
 157,Kobe Bryant,USA,6,8,basketball,2006,31
 158,Shaquille O'Neal,USA,7,5,basketball,2006,30
-159,Valentino Rossi,Italy,8,9,motorcycle gp,2006,30
+159,Valentino Rossi,Italy,8,9,motorcycle,2006,30
 160,Alex Rodriguez,USA,9,>10,baseball,2006,29
 161,Tom Brady,USA,9,>10,Football,2006,29
 162,Tiger Woods,USA,1,1,golf,2007,100
 163,Oscar De La Hoya,USA,2,>10,boxing,2007,43
 164,Phil Mickelson,USA,3,4,golf,2007,42
-165,Kimi Raikkonen,Finland,4,>10,F1 racing,2007,40
-166,Michael Schumacher,Germany,5,2,F1 racing,2007,36
+165,Kimi Raikkonen,Finland,4,>10,Auto Racing,2007,40
+166,Michael Schumacher,Germany,5,2,auto racing,2007,36
 167,David Beckham,UK,6,>10,soccer,2007,33
 168,Kobe Bryant,USA,6,>10,basketball,2007,33
 169,Shaquille O'Neal,USA,8,7,basketball,2007,32
@@ -178,7 +178,7 @@ S.NO,Name,Nationality,Current Rank,Previous Year Rank,Sport,Year,earnings ($ mil
 177,Kobe Bryant,USA,6,7,basketball,2008,39
 178,LeBron James,USA,7,>10,basketball,2008,38
 179,Ronaldinho,Brazil,8,9,soccer,2008,37
-180,Valentino Rossi,Italy,9,>10,motorcycle gp,2008,35
+180,Valentino Rossi,Italy,9,>10,motorcycle,2008,35
 181,Roger Federer,Switzerland,9,>10,tennis,2008,35
 182,Tiger Woods,USA,1,1,golf,2009,110
 183,Kobe Bryant,USA,2,6,basketball,2009,45
@@ -273,13 +273,13 @@ S.NO,Name,Nationality,Current Rank,Previous Year Rank,Sport,Year,earnings ($ mil
 272,Floyd Mayweather,USA,1,>100,Boxing,2018,285
 273,Lionel Messi,Argentina,2,3,Soccer,2018,111
 274,Cristiano Ronaldo,Portugal,3,1,Soccer,2018,108
-275,Conor McGregor,Ireland,4,24,MMA,2018,99
+275,Conor McGregor,Ireland,4,24,Mixed Martial Arts,2018,99
 276,Neymar,Brazil,5,18,Soccer,2018,90
 277,LeBron James,USA,6,2,Basketball,2018,85.5
 278,Roger Federer,Switzerland,7,4,Tennis,2018,77.2
 279,Stephen Curry,USA,8,8,Basketball,2018,76.9
-280,Matt Ryan,USA,9,>100,American Football,2018,67.3
-281,Matthew Stafford,USA,10,>100,American Football,2018,59.5
+280,Matt Ryan,USA,9,>100,Football,2018,67.3
+281,Matthew Stafford,USA,10,>100,Football,2018,59.5
 282,Lionel Messi,Argentina,1,2,Soccer,2019,127
 283,Cristiano Ronaldo,Portugal,2,3,Soccer,2019,109
 284,Neymar,Brazil,3,5,Soccer,2019,105
