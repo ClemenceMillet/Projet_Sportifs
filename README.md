@@ -1,6 +1,6 @@
 # Projet_Sportifs
 
-Notebook principal du projet: **Sportifs_Forbes.ipynb**
+Notebook principal du projet: **Projet_Python_Final.ipynb**
 
 Description des files utilisés:  
 
